@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Subhodh 👋</h1>
+<h1 align="center">Hi, I'm Subhodh <img src="Hi.gif" width="29px">  </h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
 <p align="center">🌱 I’m currently learning <strong>Python, Machine Learning, Statistical Learning</strong></p>
